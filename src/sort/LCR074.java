@@ -2,6 +2,7 @@ package sort;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.List;
 
 public class LCR074 {
@@ -45,5 +46,12 @@ public class LCR074 {
         for(int i = 0; i < merge.length; i++) {
             System.out.println(merge[i][0] + " " + merge[i][1]);
         }
+        
+        Integer a = 1;
+        a.equals(1);
+        Object[] arr = new Object[2];
+        arr[0] = 1;
+        arr[1] = "123";
+    
     }
 }

@@ -1,6 +1,6 @@
 package tree;
 
-
+import java.util.HashMap;
 
 public class LCR047 {
 
@@ -16,7 +16,6 @@ public class LCR047 {
         }
         return root;
     }
-
 
 }
 
